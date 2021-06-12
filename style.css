@@ -1,0 +1,39 @@
+body {
+	background-image: url(gambaralamterbaik.jpg);
+}
+h1 {
+	font-size: 35px ;
+	color: darkred ;
+	text-align: center ;
+	background-color: lightblue ;
+	margin: 25px 50px 75px 100px ;
+	padding-top: 50px ;
+	padding-right: 30px ;
+	padding-bottom: 50px ;
+	padding-left: 80px ;
+	border-style: solid ;
+	border-color: green;
+}
+h2 {
+	font-size: 35px ;
+	color: black ;
+	text-align: center ;
+	background-color: lightblue ;
+	margin: 25px 50px 75px 100px ;
+	padding-top: 50px ;
+	padding-right: 30px ;
+	padding-bottom: 50px ;
+	padding-left: 80px ;
+}
+tr {
+	background-color: green ; 
+	margin: 25px 50px 75px 100px ;
+}
+p {
+	background-color: green ; 
+	margin: 40px 75px 100px 120px ;
+	font-size: 20px ;
+	color: purple;
+	border-style: solid ;
+	border-color: red;
+}

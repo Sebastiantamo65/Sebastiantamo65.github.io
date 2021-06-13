@@ -1,0 +1,37 @@
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="widt=device-width, initial-scale=1">
+        <title>Sebastian Tamo Ama</title>
+        <link rel="stylesheet" type="text/css" href="new 1.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    </head>
+    <body>
+
+body {
+	background-image : url("bg.jpeg");
+	border-style: double;
+	text-align: center;
+}
+h1 {
+	font-size: 30px;
+	color: black;
+	border-style: dotted;
+	margin: 5px 5px 5px 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+h3 {
+	font-size: 30px;
+	color: black;
+	margin: 5px 5px 5px 5px;
+	border-style: dotted;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+ p {
+	 font-family: "handlee";
+}
